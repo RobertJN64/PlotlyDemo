@@ -7,7 +7,7 @@ import plotly.express as px
 import pandas
 
 # mode = "dark"
-mode = 'light'  # TODO - drop down dark theme
+mode = 'light'
 
 
 class App:
